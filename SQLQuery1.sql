@@ -101,7 +101,7 @@
 --set Salary=Salary * 1.1
 --where Salary <= 700
 
-
+use DB1
 
 select * from Employees
 
