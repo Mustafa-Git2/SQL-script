@@ -102,7 +102,8 @@
 --where Salary <= 700
 
 use DB1
-
+use master
+  
 select * from Employees
 
 
